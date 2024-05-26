@@ -1,0 +1,4 @@
+paddlepaddle-gpu>=2.0.1
+paddleocr
+transformers
+accelerate
